@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My Values, How I work, Get in Touch, What I'm Focusing on
 
 <!--
 **MHD2004/MHD2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
